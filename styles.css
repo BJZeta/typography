@@ -1,9 +1,16 @@
 #line1 {
     font-family: 'Oswald', sans-serif;
     font-size: 20px;
+    font-weight: bold;
 }
 
 #line2 {
-    font-family: 'Anton', sans-serif;
-    font-size: 18px;
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+#line3 {
+    font-family: 'Loved by the King', cursive;
+    font-size: 16px;
 }
